@@ -11,5 +11,6 @@
 > the upper right corner of the arrow can show the or hide transform after the suffix expression.</br>
 > Has improved the input point function, can calculate the input expression for example: " 1.1+2.2*(3.3-4.5)/5.5 ".</br>
 
-页面展示：</br>
+<h3>页面展示(Page display)：</h3></br>
+</br>
 ![image](https://github.com/jiangzhengnan/SuffixCalculator1.0/raw/master/show.png)
