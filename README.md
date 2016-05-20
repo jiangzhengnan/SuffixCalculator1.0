@@ -5,10 +5,10 @@
 > 右上角箭头可以显示or隐藏转化之后的后缀表达式.</br>
 > 已完善输入小数点功能,可计算输入表达式例如:" 1.1+2.2(3.3-4.5)/5.5 ".</br>
 
-> <h3> achieve infix to postfix expression calculator.</h3></br>
+> <h3>Achieve infix to postfix expression calculator.</h3></br>
 > Function list: </br>
 > Support with a left and right bracket expression, such as " 1+2* (3/4) ".</br>
-> the upper right corner of the arrow can show the or hide transform after the suffix expression.</br>
+> The upper right corner of the arrow can show the or hide transform after the suffix expression.</br>
 > Has improved the input point function, can calculate the input expression for example: " 1.1+2.2*(3.3-4.5)/5.5 ".</br>
 
 <h3>页面展示(Page display)：</h3></br>
