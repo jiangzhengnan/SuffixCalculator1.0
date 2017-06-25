@@ -13,4 +13,5 @@
 
 <h3>页面展示(Page display)：</h3></br>
 </br>
-![image](https://github.com/jiangzhengnan/SuffixCalculator1.0/raw/master/show.png)
+ 
+<img src="https://github.com/jiangzhengnan/SuffixCalculator1.0/raw/master/show.png" />
